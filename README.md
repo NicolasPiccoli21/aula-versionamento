@@ -1,4 +1,4 @@
 # aula-versionamento
-Aula de versionamento, guardar repositórios
+Aqui vamos guardar codigos da aula de versionamento
 
 adicionando configuracao github
